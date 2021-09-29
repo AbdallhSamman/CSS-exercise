@@ -1,0 +1,15 @@
+#num1 {
+  color: orange;
+  text-align: left;
+}
+#num2 {
+  text-align: right;
+}
+#p1 {
+  text-align: left;
+}
+
+#p2 {
+  text-align: right;
+  font-family: Courier;
+}

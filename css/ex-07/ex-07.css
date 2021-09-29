@@ -1,0 +1,22 @@
+h2{
+    text-decoration:underline;
+}
+p:first-of-type{
+    color: blue;
+}
+p>a:first-of-type{
+    color: orange;
+}
+#lastLink>a{
+    color: black;
+    background-color: yellow;
+}
+.Red{
+    color: red;
+}
+li:not(.please){
+    color: blue;
+}
+#unstayled{
+    list-style: none;
+}

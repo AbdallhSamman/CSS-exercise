@@ -1,0 +1,31 @@
+body{
+    background-color: #ffe5d9;
+}
+div{
+    background-color: white;
+    border: solid 1px black;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#ipsum{
+    background-color: #f4a261;
+}
+#quis{
+    background-color: #fdffb6;
+}
+#secondDiv{
+    border: dotted;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#secondp{
+    
+    border-style: dotted;
+    border: dotted red;
+    padding: 25px;
+}
+#therdDiv{
+    color: purple;
+}

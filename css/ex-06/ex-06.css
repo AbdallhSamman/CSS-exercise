@@ -1,0 +1,36 @@
+body{
+    background-color: #ffe5d9;
+}
+div{
+    background-color: white;
+    border: solid 1px black;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#ipsum{
+    background-color: #f4a261;
+}
+#quis{
+    background-color: #fdffb6;
+}
+#secondDiv{
+    background-color: white;
+    border: solid 1px black;
+    margin: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#therdp{
+    
+    border-style: dotted;
+    border: dotted red;
+    padding: 25px;
+}
+#therdDiv{
+    border-style: dotted;
+    border: dotted red;
+    padding: 25px;
+    color: red;
+}

@@ -1,0 +1,16 @@
+body{
+    margin: 20px;
+}
+p{
+    
+    margin: 10PX;
+}
+*{
+    font-family: Verdana;
+}
+.h1font,#h1size{
+    color: blue;
+}
+.h1Verdana,#em{
+    color: green;
+}
